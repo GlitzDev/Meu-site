@@ -1,6 +1,6 @@
 <div style="diplay: inline_block">
   
-<img align="center" height="20px" src="https://img.shields.io/badge/Projeto-Meu--Site-orange"/>
+<img src="https://img.shields.io/badge/Projec.-Meu--Site-orange?style=plastic&logo=appveyor"/>
   
 </div>
 
